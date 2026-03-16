@@ -27,14 +27,25 @@ O **Net Watchman** é uma ferramenta robusta e moderna para monitoramento de dis
 
 *(Espaço reservado para imagens do seu app)*
 
-## 📦 Como Instalar
+## 📦 Como Instalar e Rodar
 
-1.  Clone este repositório:
+1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/net-watchman.git
+    git clone https://github.com/N1ck0l/net-watchman.git
     ```
-2.  Abra o projeto no **Android Studio (Hedgehog ou superior)**.
-3.  Sincronize o Gradle e execute no seu dispositivo ou emulador.
+2.  **Abra no Android Studio:** Vá em `File > Open` e selecione a pasta do projeto.
+3.  **Sync Gradle:** Aguarde o Android Studio baixar as dependências (necessário conexão com internet).
+4.  **Execute:** Conecte um dispositivo Android ou use o emulador e clique no ícone de play (Run).
+
+## 🤝 Como Contribuir
+
+Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
+
+1.  Faça um **Fork** do projeto.
+2.  Crie uma **Branch** para sua funcionalidade (`git checkout -b feature/AmazingFeature`).
+3.  Faça o **Commit** de suas alterações (`git commit -m 'Add some AmazingFeature'`).
+4.  Faça o **Push** para a Branch (`git push origin feature/AmazingFeature`).
+5.  Abra um **Pull Request**.
 
 ## 📄 Licença
 
