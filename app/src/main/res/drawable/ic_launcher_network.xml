@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Fundo do ícone (Círculo Neon) -->
+    <path
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0"
+        android:strokeWidth="2"
+        android:strokeColor="#007AFF" />
+
+    <!-- Escudo / Hexágono Tech -->
+    <path
+        android:fillColor="#1A1D2E"
+        android:pathData="M54,24 L80,34 L80,54 C80,70 69,84 54,89 C39,84 28,70 28,54 L28,34 Z"
+        android:strokeWidth="1"
+        android:strokeColor="#BF5AF2" />
+
+    <!-- Nó de Rede Central -->
+    <path
+        android:fillColor="#007AFF"
+        android:pathData="M54,44m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+
+    <!-- Linhas de Conexão -->
+    <path
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:pathData="M44,44 L38,38 M64,44 L70,38 M54,54 L54,64" />
+
+    <!-- Pulso de Ping -->
+    <path
+        android:strokeWidth="2"
+        android:strokeColor="#34C759"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M40,54 L48,54 L51,48 L57,60 L60,54 L68,54" />
+
+</vector>

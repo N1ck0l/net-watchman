@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Modern Dark Palette -->
+    <color name="bg_dark">#0F111A</color>
+    <color name="surface_dark">#1A1D2E</color>
+    <color name="accent_blue">#007AFF</color>
+    <color name="accent_purple">#BF5AF2</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+
+    <!-- Status Colors -->
+    <color name="status_online">#34C759</color>
+    <color name="status_offline">#FF3B30</color>
+    <color name="status_warning">#FF9F0A</color>
+</resources>
